@@ -27,3 +27,21 @@ Big data poses challenges to the CIA paradigm because of
 - The sheer volume of information that organizations need safeguarded.
 - The multiplicity of sources that data comes from and the variety of formats in which it exists.
 - Duplicate data sets and disaster recovery plans can multiply the already-high costs.
+
+## Networking with LinkedIn and Twitter
+
+### Twitter vs. LinkedIn: A Comparison
+- Twitter offers a more laid-back environment than LinkedIn, and it provides easy access to a wide variety of people in a far faster way.
+- LinkedIn can be the better of the two in terms of searching out potential contacts, yet Twitter allows you to connect and engage in conversation with someone you haven't connected with prior.
+
+### 9 Essential Steps For Building Your LinkedIn
+
+1. Register
+2. Upload a professional photo
+3. Enter profile basics
+4. Write a summary
+5. Set up a unique LinkedIn URL
+6. Build a connections list
+7. Acquire recommendations
+8. Get social in LinkedIn security groups
+9. Be active
