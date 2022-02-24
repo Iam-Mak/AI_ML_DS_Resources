@@ -52,3 +52,33 @@ Passwords are a vital aspect of cybersecurity which impact every aspect of the C
 ### Website
 
 - [Cryptii](https://cryptii.com/)
+
+## Week 3 - Wifi, Iot, Hacking, Data Breaches and Social Engineering
+### Hackers
+- [The Truth about Hackers, in Black and White (and Grey)](https://www.webroot.com/blog/2020/04/23/the-truth-about-hackers-in-black-and-white-and-grey/)
+- [Types of Hackers (Hats) Explained](https://www.youtube.com/watch?v=Q0F-pv-n_lc)
+
+### Internet of Things
+#### Reading 
+- [ Investing In The Internet Of Things Security](https://www.forbes.com/sites/cognitiveworld/2019/06/27/investing-in-the-internet-of-things-security/?sh=1fe37cf73d59)
+- [How a Fishtank Helped Hack a Casino](https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-hack-a-casino/)
+
+#### Videos
+- [Decoding Internet Security: Internet of things](https://www.washingtonpost.com/video/world/decoding-internet-security-internet-of-things/2017/07/21/8c5f8e88-6e32-11e7-abbc-a53480672286_video.html)
+### Website
+- Explore this NIST site about [Internet of Things](https://www.nist.gov/internet-things-iot)
+
+### Social Engineering
+#### Readings
+
+- [Social Engineering a Factor in Virtually all Cyber Attacks](https://www.computerweekly.com/news/252470384/Social-engineering-a-factor-in-virtually-all-cyber-attacks-report-claims)
+- [Social Engineering Remains a Top Cybersecurity Concern](https://www.varonis.com/blog/social-engineering-remains-a-top-cybersecurity-concern)
+- [Social Engineering and the Role it Plays in Cybersecurity](https://www.eccouncil.org/)
+- [A hacker shows how you can take over someone's online account in minutes using nothing but a phone](https://www.businessinsider.com/hacker-social-engineer-2016-2?IR=T)
+- [CISA Security Tip (ST04-014): A​voiding Social Engineering and Phishing Attacks](https://www.cisa.gov/uscert/ncas/tips/ST04-014)
+
+#### Videos
+
+- [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
+- [How phishing scammers manipulate your amygdala and oxytocin | Christopher Hadnagy | TEDxFultonStreet](https://www.ted.com/talks/christopher_hadnagy_how_phishing_scammers_manipulate_your_amygdala_and_oxytocin/transcript?language=en)
+- [Everyday Cybercrime and What You Can Do About It](https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it)
