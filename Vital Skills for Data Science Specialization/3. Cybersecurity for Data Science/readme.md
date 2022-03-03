@@ -71,6 +71,8 @@ Passwords are a vital aspect of cybersecurity which impact every aspect of the C
 ### Social Engineering
 #### Readings
 
+
+
 - [Social Engineering a Factor in Virtually all Cyber Attacks](https://www.computerweekly.com/news/252470384/Social-engineering-a-factor-in-virtually-all-cyber-attacks-report-claims)
 - [Social Engineering Remains a Top Cybersecurity Concern](https://www.varonis.com/blog/social-engineering-remains-a-top-cybersecurity-concern)
 - [Social Engineering and the Role it Plays in Cybersecurity](https://www.eccouncil.org/)
@@ -82,3 +84,36 @@ Passwords are a vital aspect of cybersecurity which impact every aspect of the C
 - [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
 - [How phishing scammers manipulate your amygdala and oxytocin | Christopher Hadnagy | TEDxFultonStreet](https://www.ted.com/talks/christopher_hadnagy_how_phishing_scammers_manipulate_your_amygdala_and_oxytocin/transcript?language=en)
 - [Everyday Cybercrime and What You Can Do About It](https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it)
+
+
+## Week 4 - The Ethics of Cyber Security
+### Big Brother and Surveillance
+#### Reading
+
+- [Facial Recognition And Beyond: Journalist Ventures Inside China's 'Surveillance State'](https://www.npr.org/2021/01/05/953515627/facial-recognition-and-beyond-journalist-ventures-inside-chinas-surveillance-sta-tech)
+
+#### Videos
+- [Connected (show on Netflix)](https://www.netflix.com/in/title/81031737)
+- [The Social Dilemma (movie on Netflix)](https://www.netflix.com/in/title/81254224)
+- [The Social Dilemma's' Tristan Harris on How to Make Social Media Less Addictive](https://www.youtube.com/watch?v=nxOb_3_yR_g)
+- [Yuval Noah Harari and Tristan Harris interviewed by Wired](https://www.youtube.com/watch?v=v0sWeLZ8PXg)
+- [The Power of Facial Recognition](https://www.ted.com/talks/panos_moutafis_the_power_of_facial_recognition)
+- [How facial recognition went from bad TV to Big Brother](https://www.youtube.com/watch?v=gsMyUPAcQX8)
+- [What You Need to Know About Face Surveillance](https://www.ted.com/talks/kade_crockford_what_you_need_to_know_about_face_surveillance?language=en)
+
+### Cybersecurity Experts on Twitter
+#### Reading 
+- [Top Cybersecurity Experts You Should Follow On Twitter](https://www.privacyend.com/cybersecurity-experts-you-should-follow-on-twitter/)
+
+## Week 5 - Cybersecurity Expert Interview
+### 40 Questions to Ask a Mentor
+#### Reading 
+- [40 Questions to Ask a Mentor](https://www.forbes.com/sites/jomiller/2018/03/25/40-questions-to-ask-a-mentor/?sh=5fda4c9b261b)
+
+### 9 Tips on Conducting Great Interviews
+- [9 Tips on Conducting Great Interviews](https://www.forbes.com/sites/shelisrael/2012/04/14/8-tips-on-conducting-great-interviews/?sh=7f8ad46a56f1)
+
+### Reflecting Skills
+- [Skills You Need: Reflecting](https://www.skillsyouneed.com/ips/reflecting.html)
+
+
