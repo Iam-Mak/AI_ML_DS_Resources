@@ -31,3 +31,33 @@ that you can recall specific versions later.
 - Camel Lower Casing - is similar to pascal case but the first word is not capitalized.
 - Camel Upper Casing - is similar to pascal case but the first word is capitalized.
 # Week 2
+
+#### Q : How does one change the name of the key once assigned?.
+**Ans.** Keys cannot be changed. You need to add a new key with the modified value then remove the old one, or create a new dictionary with a new dictionary key.
+
+#### Q : What if more than 2 words are repeated and we want to remove the word more than 2 so how can we use the remove()?
+**Ans.** Kindly write a loop and execute the statements.
+
+#### Q : Explain immutability?
+**Ans.** Once an object is created you will not be able to modify the elements, that refers to immutability.
+
+#### Q :How do we know whether it is positive indexing or negative indexing ? Is there any command to know about indexing?
+**Ans.** The positive index starts from 0 to n-1 (with positive sign) Negative indexing is used to access elements from the end of a list negative indexing starts from -1 to -(n) (with negative sign)
+
+# Week 3
+
+#### Q : How do you get the number of unique data types in a given dataframe?
+**Ans.** Pandas dataframe.get_dtype_counts() function returns the counts of dtypes in the given dataframe. It returns a pandas series object containing the counts of all data types present in the pandas object.
+
+#### Q : How to find out if there are any duplicate values in a DataFrame ?
+**Ans.** To find out duplicated values, use the pandas.DataFrame.duplicated() function.
+
+#### Q : What is difference between pandas.DataFrame.drop() and pandas.DataFrame.dropna() functions?
+**Ans.** The function pandas.DataFrame.drop() removes rows or columns by specifying label names and corresponding axis, or by specifying directly index or column names The function pandas.DataFrame.dropna() drops rows with missing values.
+
+#### Q : Can a dataframe be multi-dimensional?
+**Ans.** No. A data frame consists of only 2 dimensions i.e. rows and columns. Each column stores data corresponding to a specific dimension.
+
+
+
+
