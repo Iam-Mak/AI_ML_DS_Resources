@@ -1,4 +1,4 @@
-## Week 1.1 Anatomy of Visualization
+## Week 1 Anatomy of Visualization
 ### Why Visualization?
 -  To see structure in data
 -  To tell a story using data
@@ -28,3 +28,32 @@ It divides a visualization into seven core pieces:
 - **Coordination System** -How are data values mapped to visual elements?
 
 ![image](https://user-images.githubusercontent.com/92245436/154855174-c63cfa3c-9afd-493d-bc3c-296b30225595.png)
+
+### Mapping Basics
+### What is a mapping?
+A function that translate values from one space to another .
+
+**Expressiveness:** The visual encoding should express all of, and only, the information in the dataset attributes.
+**Effectiveness:** The importance of the attribute should match the salience of the channel.
+
+### Introduction to Interaction
+Visualization Mantra
+- Overview First
+- Zoom & Filter
+- Details on Demand
+
+Why Interaction ?
+- Support new insights
+- Explore different levels of detail
+- Emphasize subsets of data
+- Self - discovery & sensemaking 
+- Scalability (reveal hidden or aggregated data)
+
+Seven Types of Interactions
+- **Select:** Mark something as interesting
+- **Explore:** Show me something else
+- **Abstract/Elaborate:** Show me more or less detail
+- **Reconfigure:** Show me the same thing in a different order
+- **Filter:** Show me a specific subset of something
+- **Encode:**  Show me a specific thing in a different way
+- **Connect:** Show me things like this
