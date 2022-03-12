@@ -39,3 +39,19 @@ Uncertainty and Decision Making
 - [Why Authors Don't Visualize Uncertainty](https://arxiv.org/abs/1908.01697)
 
 ## Week 3
+
+Insight-Based Evaluation
+- [Empirical Studies in Information Visualization: Seven Scenarios](https://www.researchgate.net/publication/51855553_Empirical_Studies_in_Information_Visualization_Seven_Scenarios)
+- [Toward Measuring Visualization Insight](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.243&rep=rep1&type=pdf)
+
+Qualitative Evaluation
+- [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711?casa_token=c178RPf7zKIAAAAA:Lddly3hkUMKHDtH3qAuAyeoWDMpYHi5YHMUWGnMothMUc0Bt_k-i2XzziJLCWO7MMCMxJ1E)
+
+Experimental Design
+- [Experimental Research in HCI](http://www.nixdell.com/classes/HCI-Spring-2018/Experimental-research.pdf)
+- [A Design Space of Vision Science Methods for Visualization Research](https://arxiv.org/abs/2009.06855)
+
+Trade-Offs in Evaluation
+
+- [Empirical Studies in Information Visualization: Seven Scenarios](https://www.researchgate.net/publication/51855553_Empirical_Studies_in_Information_Visualization_Seven_Scenarios)
+- [Evaluating Information Visualizations](https://www.researchgate.net/publication/225341442_Evaluating_Information_Visualizations)
